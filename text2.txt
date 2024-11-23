@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0A64-35C6
+
+ Directory of C:\Users\sonal\OneDrive\Desktop\Learning\Git\gitProject23
+
+23-11-2024  05:51    <DIR>          .
+23-11-2024  05:50    <DIR>          ..
+23-11-2024  05:51                 0 text2.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  32,189,116,416 bytes free
